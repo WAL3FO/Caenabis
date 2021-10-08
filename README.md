@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Caenabis, I code mainly softwares, tools, games and some utils libraries.
+- 👀 I particularly like data processing and simulation.
+- 🌱 I’m currently learning ASP.NET
